@@ -1,0 +1,52 @@
+.calculator{
+    background-color:#5b4f5fde;
+    width: 300px;height: 550px; 
+    border-radius:4px;
+    box-shadow:inset 0px 10px 200px rgba(0, 0, 0, 0.5);
+}
+#display{
+    height:60px;
+    width:240px;
+    background:white;
+    color:black;
+    margin-top:35px;
+    margin-left:25px;
+    box-shadow:inset 0px 0px 5px rgba(0, 0, 0, 0.5);
+}
+#sin, #cos, #tan, #asin, #acos, #atan, #log, #lbrkt, #rbrkt, #exp, #sqrt, #fact, #sinh, #cosh, #tanh, #reci, #pow, #frac, #toggle{
+    background-color:black;
+    color:white;
+    width: 40px;height: 30px;
+    
+}
+#add, #subtr, #mult, #divid{
+    background-color:#ff9595;
+}
+#del, #clr{
+    background:red;
+    width: 40px;height: 30px;
+}
+.buttons{
+    height:80px;
+    width:300px;
+    padding:5px;5px;5px;5px;
+    margin-top:50px;
+    margin-left:10px;
+    margin-right:10px;
+    
+       
+}
+button{
+    width: 50px;height: 40px;
+    border-radius:5px;
+    background-color:grey;
+    color:black;
+    cursor:pointer;
+    margin:5px;
+}
+button:hover{
+    background-color:"#3e8e41;
+} 
+#1{
+    color;red;d
+}
